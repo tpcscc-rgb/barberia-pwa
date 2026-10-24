@@ -1,0 +1,22 @@
+{
+    "name": "Mi Barbería El Primo",
+    "short_name": "Barbería",
+    "id": "https://satelite.gt.tc/barberia_premium/",
+    "scope": "https://satelite.gt.tc/barberia_premium/",
+    "start_url": "https://satelite.gt.tc/barberia_premium/app/index.php",
+    "display": "standalone",
+    "background_color": "#0d0d0d",
+    "theme_color": "#c9a227",
+    "icons": [
+        {
+            "src": "https://satelite.gt.tc/barberia_premium/app/icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://satelite.gt.tc/barberia_premium/app/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
